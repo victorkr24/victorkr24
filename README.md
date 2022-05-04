@@ -4,14 +4,14 @@
 ### Principales Tecnologias 
 
 
-   <a href="url"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" align="left" height="80" width="170" ></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" align="left" height="80" width="170" >
    
-   <a href="url"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" align="left" height="80" width="170" ></a>
- <a href="url"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="left" height="80" width="170" ></a>
- <a href="url"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="left" height="80" width="170" ></a>
-  <a href="url"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" align="left" height="80" width="170" ></a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" align="left" height="80" width="170" >
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="left" height="80" width="170" >
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="left" height="80" width="170" >
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" align="left" height="80" width="170" >
 ------------------------------
- 
-<a href="url"><img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" align="left" height="80" width="170" ></a>
-<a href="url"><img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" align="left" height="80" width="170" ></a>
-<a href="url"><img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" align="left" height="80" width="170" ></a>
+
+<img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" align="left" height="80" width="170" >
+<img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" align="left" height="80" width="170" >
+<img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" align="left" height="80" width="170" >
